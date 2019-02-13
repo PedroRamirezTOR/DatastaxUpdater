@@ -1,2 +1,0 @@
-# DatastaxUpdater
-DatastaxUpdater
